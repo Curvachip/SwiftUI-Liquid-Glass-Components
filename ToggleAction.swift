@@ -1,9 +1,3 @@
-//
-//  ToggleAction.swift
-//  LiquidGlassEx
-//
-//  Created by Michael Sharman on 12/24/25.
-//
 
 import SwiftUI
 
