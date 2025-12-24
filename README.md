@@ -1,5 +1,5 @@
 # SwiftUI-Liquid-Glass-Components
-Quickly implement and test new Liquid Glass user interface elements in SwiftUI and handle backwards compatibility with implemented OS version checks.
+Quickly implement and test new Liquid Glass user interface elements in SwiftUI and handle backwards compatibility with conditional logic and device OS version checks.
 
 ## Features
 - Liquid Glass-style UI components for SwiftUI
